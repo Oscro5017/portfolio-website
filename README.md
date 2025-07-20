@@ -43,3 +43,12 @@ Welcome to my personal portfolio website! This responsive and modern single-page
 - **JavaScript (vanilla)** – interaction, DOM control
 - **Font Awesome** – icons
 - **Google Fonts** – Poppins
+
+---
+
+## 🔧 How to Use
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/Oscro5017/portfolio-website.git
