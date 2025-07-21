@@ -3,7 +3,7 @@
 
 Welcome to my personal portfolio website! This responsive and modern single-page application showcases my skills, projects, and contact information. It is built using only HTML, CSS, and vanilla JavaScript — no frameworks required!
 
-> 🚀 Live Preview: [Click Here](https://htmlpreview.github.io/?https://github.com/Oscro5017/portfolio-website/blob/main/index.html)
+> 🚀 Live Preview: [Click Here](https://htmlpreview.github.io/https://github.com/Oscro5017/portfolio-website/blob/main/index.html)
 
 ---
 
